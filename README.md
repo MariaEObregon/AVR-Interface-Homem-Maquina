@@ -56,6 +56,6 @@ Botões e LED's:
 
 
 
-| 🚦 Simulação no SimulIDE: |
+| 📟 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
 | ![Interface-Homem-Maquina](Interface-Homem-Maquina.gif)                |
