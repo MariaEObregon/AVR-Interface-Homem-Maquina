@@ -58,4 +58,4 @@ Botões e LED's:
 
 | 🚦 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
-| ![Semaforo-Temporizado](Semaforo-Temporizado.gif)                |
+| ![Interface-Homem-Maquina](Interface-Homem-Maquina.gif)                |
